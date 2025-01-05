@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [0354-russian-doll-envelopes](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0354-russian-doll-envelopes) |
 ## Recursion
 |  |
 | ------- |
@@ -26,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Binary Search
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0354-russian-doll-envelopes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0354-russian-doll-envelopes) |
+## Sorting
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
