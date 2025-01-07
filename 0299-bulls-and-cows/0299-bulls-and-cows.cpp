@@ -8,7 +8,7 @@ public:
         string ans= "";
         for(int i=0;i<n;i++ )
         {
-          if(secret[i]==guess[i])  //to count no of bulls
+          if(secret[i]==guess[i])
             { 
                 countb++;
                 guess[i]=-1;
@@ -18,7 +18,7 @@ public:
         
         for(int i=0;i<n;i++)
         {
-            if(secret.find(guess[i])!=-1 && guess[i]!=-1)  //to count no of cow
+            if(secret.find(guess[i])!=-1 && guess[i]!=-1)
             {
                 countc++;
                 secret[secret.find(guess[i])]=-1;
