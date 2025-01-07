@@ -66,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Hash Table
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0299-bulls-and-cows) |
+## String
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0299-bulls-and-cows) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
