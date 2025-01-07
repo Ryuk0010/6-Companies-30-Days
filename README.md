@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1370-count-number-of-nice-subarrays) |
 ## Geometry
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0661-image-smoother) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1370-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1370-count-number-of-nice-subarrays) |
 ## Ordered Set
 |  |
 | ------- |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0299-bulls-and-cows) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1370-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -78,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0299-bulls-and-cows) |
+## Sliding Window
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
