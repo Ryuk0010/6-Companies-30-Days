@@ -1,15 +1,25 @@
 class Solution {
 public:
     void wiggleSort(vector<int>& nums) {
-        int n= nums.size();
-        priority_queue<int> q(nums.begin(), nums.end());
-        for(int i=1; i<n; i += 2){
-            nums[i] = q.top();
-            q.pop();
-        }
-        for(int i=0; i<n; i += 2){
-            nums[i] = q.top();
-            q.pop();
-        }
+    int n = nums.size();
+    
+
+    auto midptr = nums.begin() + n / 2;
+    nth_element(nums.begin(), midptr, nums.end());
+    int mid = *midptr;
+    
+
+    #define A(i) nums[(1+2*(i)) % (n|1)]
+
+
+    int i = 0, j = 0, k = n - 1;
+    while (j <= k) {
+        if (A(j) > mid)
+            swap(A(i++), A(j++));
+        else if (A(j) < mid)
+            swap(A(j), A(k--));
+        else
+            j++;
     }
+}
 };
