@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0354-russian-doll-envelopes) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0299-bulls-and-cows) |
 | [0187-repeated-dna-sequences](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0187-repeated-dna-sequences) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Counting
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0187-repeated-dna-sequences) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -115,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0324-wiggle-sort-ii) |
+## Backtracking
+|  |
+| ------- |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+## Bitmask
+|  |
+| ------- |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 <!---LeetCode Topics End-->
