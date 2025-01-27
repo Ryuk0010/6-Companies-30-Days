@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1370-count-number-of-nice-subarrays) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Geometry
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0354-russian-doll-envelopes) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [0638-shopping-offers](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0638-shopping-offers) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0187-repeated-dna-sequences) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [0638-shopping-offers](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0638-shopping-offers) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0638-shopping-offers) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Graph
 |  |
 | ------- |
@@ -145,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 <!---LeetCode Topics End-->
