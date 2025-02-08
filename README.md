@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0324-wiggle-sort-ii) |
 | [0638-shopping-offers](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0638-shopping-offers) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0661-image-smoother](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0661-image-smoother) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
