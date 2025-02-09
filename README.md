@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1370-count-number-of-nice-subarrays) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+| [0066-plus-one](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0066-plus-one) |
 ## Geometry
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
+| [0066-plus-one](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
