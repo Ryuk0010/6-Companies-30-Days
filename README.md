@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0638-shopping-offers) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Sorting
 |  |
 | ------- |
@@ -155,12 +156,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0744-network-delay-time](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0744-network-delay-time) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0744-network-delay-time](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0744-network-delay-time) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Combinatorics
 |  |
 | ------- |
@@ -188,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0744-network-delay-time](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0744-network-delay-time) |
+## Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
