@@ -29,6 +29,6 @@ public:
             }
           }
         }
-        return topo;
+        return (topo.size() == numCourses) ? topo : vector<int>{};
     }
 };
