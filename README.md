@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 | [0066-plus-one](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0066-plus-one) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1477-product-of-the-last-k-numbers) |
+| [0049-group-anagrams](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0049-group-anagrams) |
 ## Recursion
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0354-russian-doll-envelopes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0324-wiggle-sort-ii) |
+| [0049-group-anagrams](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0049-group-anagrams) |
 ## Matrix
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1370-count-number-of-nice-subarrays) |
 | [0187-repeated-dna-sequences](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0424-longest-repeating-character-replacement) |
+| [0049-group-anagrams](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0424-longest-repeating-character-replacement) |
+| [0049-group-anagrams](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0049-group-anagrams) |
 ## Counting
 |  |
 | ------- |
