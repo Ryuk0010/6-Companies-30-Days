@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0424-longest-repeating-character-replacement) |
 | [0049-group-anagrams](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0151-reverse-words-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -221,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1477-product-of-the-last-k-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
