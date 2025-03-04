@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0066-plus-one) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1477-product-of-the-last-k-numbers) |
 | [0049-group-anagrams](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0056-merge-intervals) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0324-wiggle-sort-ii) |
 | [0049-group-anagrams](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0056-merge-intervals) |
 ## Matrix
 |  |
 | ------- |
