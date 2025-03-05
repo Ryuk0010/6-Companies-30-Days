@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1477-product-of-the-last-k-numbers) |
 | [0049-group-anagrams](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0078-subsets) |
 ## Recursion
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [0638-shopping-offers](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0638-shopping-offers) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+| [0078-subsets](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0078-subsets) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [0638-shopping-offers](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0638-shopping-offers) |
+| [0078-subsets](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0078-subsets) |
 ## Bitmask
 |  |
 | ------- |
