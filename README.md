@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0078-subsets) |
+| [0051-n-queens](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0051-n-queens) |
 ## Recursion
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [0638-shopping-offers](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0638-shopping-offers) |
 | [0078-subsets](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0078-subsets) |
+| [0051-n-queens](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0051-n-queens) |
 ## Bitmask
 |  |
 | ------- |
