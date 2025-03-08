@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0078-subsets) |
 | [0051-n-queens](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0063-unique-paths-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [0070-climbing-stairs](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0070-climbing-stairs) |
 | [0062-unique-paths](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0063-unique-paths-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0661-image-smoother) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
+| [0063-unique-paths-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0063-unique-paths-ii) |
 ## Reservoir Sampling
 |  |
 | ------- |
