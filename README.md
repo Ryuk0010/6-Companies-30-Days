@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0066-plus-one) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1477-product-of-the-last-k-numbers) |
 | [0070-climbing-stairs](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0070-climbing-stairs) |
+| [0062-unique-paths](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0062-unique-paths) |
 ## Geometry
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [0070-climbing-stairs](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0070-climbing-stairs) |
+| [0062-unique-paths](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0062-unique-paths) |
 ## Sorting
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+| [0062-unique-paths](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0062-unique-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
