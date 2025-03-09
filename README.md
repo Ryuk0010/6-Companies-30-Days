@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0070-climbing-stairs) |
 | [0062-unique-paths](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0063-unique-paths-ii) |
+| [1250-longest-common-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1250-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0151-reverse-words-in-a-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1250-longest-common-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1250-longest-common-subsequence) |
 ## Counting
 |  |
 | ------- |
