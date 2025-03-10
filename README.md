@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0078-subsets) |
 | [0051-n-queens](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0063-unique-paths-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0354-russian-doll-envelopes) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1753-path-with-minimum-effort](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
+| [0300-longest-increasing-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0063-unique-paths-ii) |
 | [1250-longest-common-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1250-longest-common-subsequence) |
 | [0072-edit-distance](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0072-edit-distance) |
+| [0300-longest-increasing-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
 ## Sorting
 |  |
 | ------- |
