@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0063-unique-paths-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Recursion
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1250-longest-common-subsequence) |
 | [0072-edit-distance](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0324-wiggle-sort-ii) |
 | [0049-group-anagrams](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0056-merge-intervals) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Matrix
 |  |
 | ------- |
