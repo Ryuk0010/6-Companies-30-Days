@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0063-unique-paths-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [0312-burst-balloons](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0312-burst-balloons) |
 ## Recursion
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [0312-burst-balloons](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0312-burst-balloons) |
 ## Sorting
 |  |
 | ------- |
