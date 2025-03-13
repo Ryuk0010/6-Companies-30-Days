@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [0312-burst-balloons](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0312-burst-balloons) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1121-partition-array-for-maximum-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [0312-burst-balloons](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0312-burst-balloons) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0132-palindrome-partitioning-ii) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1121-partition-array-for-maximum-sum) |
 ## Sorting
 |  |
 | ------- |
