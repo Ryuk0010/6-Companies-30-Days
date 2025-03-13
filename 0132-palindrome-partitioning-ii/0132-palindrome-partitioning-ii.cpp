@@ -2,12 +2,12 @@ class Solution {
 int dp1[2000][2000];
     int dp2[2000];
     bool isPal(string &s, int i, int j) {
-        if(i >= j)
-            return true;
-
-        if(dp1[i][j] != -1)
-            return dp1[i][j];
-        return dp1[i][j] = (s[i] == s[j]) && isPal(s, i+1, j-1);
+        while(i <= j){
+            if(s[i] != s[j]) return false;
+            i++;
+            j--;
+        }
+        return true;
     }
     int minCutHelp(string &s, int i) {
         if(i == s.length() - 1) 
