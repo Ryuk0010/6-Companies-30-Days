@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [0312-burst-balloons](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0312-burst-balloons) |
+| [0132-palindrome-partitioning-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0132-palindrome-partitioning-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1250-longest-common-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1250-longest-common-subsequence) |
 | [0072-edit-distance](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0072-edit-distance) |
+| [0132-palindrome-partitioning-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0132-palindrome-partitioning-ii) |
 ## Counting
 |  |
 | ------- |
