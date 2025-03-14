@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [0312-burst-balloons](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0312-burst-balloons) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1121-partition-array-for-maximum-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0084-largest-rectangle-in-histogram) |
 ## Recursion
 |  |
 | ------- |
@@ -261,4 +262,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0151-reverse-words-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
