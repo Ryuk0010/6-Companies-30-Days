@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1121-partition-array-for-maximum-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0084-largest-rectangle-in-histogram) |
 | [0875-longest-mountain-in-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0875-longest-mountain-in-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Recursion
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0424-longest-repeating-character-replacement) |
 | [0049-group-anagrams](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0049-group-anagrams) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1370-count-number-of-nice-subarrays) |
 | [0187-repeated-dna-sequences](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0424-longest-repeating-character-replacement) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bit Manipulation
 |  |
 | ------- |
