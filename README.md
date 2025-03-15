@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 | [0300-longest-increasing-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1321-get-equal-substrings-within-budget) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1477-product-of-the-last-k-numbers) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1321-get-equal-substrings-within-budget) |
 ## Ordered Set
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1250-longest-common-subsequence) |
 | [0072-edit-distance](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0132-palindrome-partitioning-ii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1321-get-equal-substrings-within-budget) |
 ## Counting
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0424-longest-repeating-character-replacement) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1321-get-equal-substrings-within-budget) |
 ## Bit Manipulation
 |  |
 | ------- |
