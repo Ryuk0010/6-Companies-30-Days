@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0084-largest-rectangle-in-histogram) |
 | [0875-longest-mountain-in-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0875-longest-mountain-in-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1753-path-with-minimum-effort](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 | [0300-longest-increasing-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0056-merge-intervals) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0049-group-anagrams) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0532-k-diff-pairs-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0151-reverse-words-in-a-string) |
 | [0875-longest-mountain-in-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0875-longest-mountain-in-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Stack
 |  |
 | ------- |
