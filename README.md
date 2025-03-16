@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1477-product-of-the-last-k-numbers) |
 | [0070-climbing-stairs](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0070-climbing-stairs) |
 | [0062-unique-paths](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0062-unique-paths) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Geometry
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-friends-of-appropriate-ages](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0852-friends-of-appropriate-ages) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Recursion
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0638-shopping-offers) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [0078-subsets](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0078-subsets) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [0638-shopping-offers](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0638-shopping-offers) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Memoization
 |  |
 | ------- |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0744-network-delay-time) |
 | [0207-course-schedule](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0210-course-schedule-ii) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -299,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0875-longest-mountain-in-array) |
+## Game Theory
+|  |
+| ------- |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 <!---LeetCode Topics End-->
