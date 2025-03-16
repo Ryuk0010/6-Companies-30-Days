@@ -12,7 +12,7 @@ public:
             auto[currX, currY] = que.front();
             que.pop();
 
-            for(auto dir: directions){
+            for(auto &dir: directions){
                 int newX = currX + dir[0];
                 int newY = currY + dir[1];
                 
