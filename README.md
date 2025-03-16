@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-friends-of-appropriate-ages](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0852-friends-of-appropriate-ages) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1321-get-equal-substrings-within-budget) |
 | [0852-friends-of-appropriate-ages](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0852-friends-of-appropriate-ages) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0132-palindrome-partitioning-ii) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1121-partition-array-for-maximum-sum) |
 | [0875-longest-mountain-in-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0875-longest-mountain-in-array) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0424-longest-repeating-character-replacement) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1321-get-equal-substrings-within-budget) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -178,10 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0187-repeated-dna-sequences) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0187-repeated-dna-sequences) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
