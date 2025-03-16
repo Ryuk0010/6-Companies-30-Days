@@ -1,32 +1,33 @@
 class Solution {
 public:
     vector<vector<int>> directions = {{2, 1}, {2, -1}, {-2, 1}, {-2, -1}, {1, 2}, {1, -2}, {-1, 2}, {-1, -2}};
-    void BFS(int x, int y, int index, vector<vector<int>>& minDist, vector<vector<int>>& pos) {
-        vector<vector<int>> t(50, vector<int>(50, -1));
-        queue<pair<int, int>> que;
-        que.push({x, y});
-        t[x][y] = 0;
+    void BFS(int x, int y, int idx, vector<vector<int>>& minDist, vector<vector<int>>& ps){
 
-        while(!que.empty()) {
-            auto[currX, currY] = que.front();
-            que.pop();
+        vector<vector<int>> vis(50, vector<int>(50, -1));
+        queue<pair<int, int>> q;
+        q.push({x, y});
+        vis[x][y] = 0;
 
-            for(auto &dir : directions) {
-                int newX = currX + dir[0];
-                int newY = currY + dir[1];
+        while(!q.empty()){
+            auto it = q.front();
+            q.pop();
+            int currentX = it.first;
+            int currentY = it.second;
 
-                if(newX >= 0 && newX < 50 && newY >= 0 && newY < 50 && t[newX][newY] == -1) {
-                    t[newX][newY] = t[currX][currY] + 1;
-                    que.push({newX, newY});
+            for(auto dir: directions){
+                int newX = currentX + dir[0];
+                int newY = currentY + dir[1];
+                
+                if(newX >= 0 && newX < 50 && newY >= 0 && newY < 50 && vis[newX][newY] == -1){
+                    q.push({newX, newY});
+                    vis[newX][newY] = 1 + vis[currentX][currentY];
                 }
             }
         }
-
-        for(int i = 0; i < pos.size(); i++) {
-            int x_ = pos[i][0];
-            int y_ = pos[i][1];
-
-            minDist[index][i] = t[x_][y_];
+        for(int i = 0; i < ps.size(); i++){
+            int x_ = ps[i][0];
+            int y_ = ps[i][1];
+            minDist[idx][i] = vis[x_][y_];
         }
     }
 
