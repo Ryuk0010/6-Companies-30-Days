@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-friends-of-appropriate-ages](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0852-friends-of-appropriate-ages) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+| [0001-two-sum](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0001-two-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0001-two-sum](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0001-two-sum) |
 ## String
 |  |
 | ------- |
