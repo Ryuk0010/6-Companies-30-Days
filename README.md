@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0210-course-schedule-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0144-binary-tree-preorder-traversal) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0094-binary-tree-inorder-traversal) |
 ## Union Find
 |  |
 | ------- |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0144-binary-tree-preorder-traversal) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -323,8 +325,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0144-binary-tree-preorder-traversal) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0144-binary-tree-preorder-traversal) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
