@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [0001-two-sum](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0001-two-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Recursion
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0001-two-sum](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0001-two-sum) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0324-wiggle-sort-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Greedy
 |  |
 | ------- |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0222-count-complete-tree-nodes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -358,4 +362,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0222-count-complete-tree-nodes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
