@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -378,8 +379,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0783-search-in-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
