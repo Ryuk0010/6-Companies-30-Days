@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1957-closest-room](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1957-closest-room) |
 ## Recursion
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [0222-count-complete-tree-nodes](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0222-count-complete-tree-nodes) |
+| [1957-closest-room](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1957-closest-room) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-friends-of-appropriate-ages](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0852-friends-of-appropriate-ages) |
+| [1957-closest-room](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1957-closest-room) |
 ## Matrix
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [1957-closest-room](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1957-closest-room) |
 ## Randomized
 |  |
 | ------- |
