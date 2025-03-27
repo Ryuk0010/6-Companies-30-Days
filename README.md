@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -392,4 +394,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
