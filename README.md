@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1957-closest-room](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1957-closest-room) |
+| [0031-next-permutation](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0031-next-permutation) |
 ## Recursion
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-friends-of-appropriate-ages](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0852-friends-of-appropriate-ages) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [0031-next-permutation](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0031-next-permutation) |
 ## Stack
 |  |
 | ------- |
