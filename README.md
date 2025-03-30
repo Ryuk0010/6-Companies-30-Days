@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1957-closest-room](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1957-closest-room) |
 | [0031-next-permutation](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0031-next-permutation) |
+| [2228-watering-plants-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2228-watering-plants-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2228-watering-plants-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2228-watering-plants-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [0031-next-permutation](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0031-next-permutation) |
 | [0556-next-greater-element-iii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0556-next-greater-element-iii) |
+| [2228-watering-plants-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2228-watering-plants-ii) |
 ## Stack
 |  |
 | ------- |
