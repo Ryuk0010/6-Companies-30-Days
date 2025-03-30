@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0070-climbing-stairs) |
 | [0062-unique-paths](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0062-unique-paths) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+| [0556-next-greater-element-iii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0556-next-greater-element-iii) |
 ## Geometry
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0132-palindrome-partitioning-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1321-get-equal-substrings-within-budget) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0556-next-greater-element-iii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0556-next-greater-element-iii) |
 ## Counting
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-friends-of-appropriate-ages](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0852-friends-of-appropriate-ages) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [0031-next-permutation](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0031-next-permutation) |
+| [0556-next-greater-element-iii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0556-next-greater-element-iii) |
 ## Stack
 |  |
 | ------- |
