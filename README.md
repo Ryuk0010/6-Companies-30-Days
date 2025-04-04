@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0031-next-permutation) |
 | [2228-watering-plants-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2228-watering-plants-ii) |
 | [0493-reverse-pairs](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0493-reverse-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-friends-of-appropriate-ages](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0852-friends-of-appropriate-ages) |
 | [1957-closest-room](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1957-closest-room) |
+| [0347-top-k-frequent-elements](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0299-bulls-and-cows) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [0347-top-k-frequent-elements](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0493-reverse-pairs](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0493-reverse-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -233,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -320,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0744-network-delay-time](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0744-network-delay-time) |
+| [0347-top-k-frequent-elements](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 ## Topological Sort
 |  |
 | ------- |
@@ -438,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0493-reverse-pairs) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
