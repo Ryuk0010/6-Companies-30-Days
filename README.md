@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0493-reverse-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [3376-longest-common-suffix-queries](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3376-longest-common-suffix-queries) |
 ## Recursion
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1321-get-equal-substrings-within-budget) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0556-next-greater-element-iii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0556-next-greater-element-iii) |
+| [3376-longest-common-suffix-queries](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3376-longest-common-suffix-queries) |
 ## Counting
 |  |
 | ------- |
@@ -456,4 +458,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [3376-longest-common-suffix-queries](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3376-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
