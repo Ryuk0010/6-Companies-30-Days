@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3376-longest-common-suffix-queries](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3376-longest-common-suffix-queries) |
+| [0648-replace-words](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0648-replace-words) |
 ## Recursion
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0648-replace-words](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0648-replace-words) |
 ## String
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0556-next-greater-element-iii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0556-next-greater-element-iii) |
 | [3376-longest-common-suffix-queries](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3376-longest-common-suffix-queries) |
+| [0648-replace-words](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0648-replace-words) |
 ## Counting
 |  |
 | ------- |
@@ -459,4 +462,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3376-longest-common-suffix-queries](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3376-longest-common-suffix-queries) |
+| [0648-replace-words](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
