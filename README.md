@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3376-longest-common-suffix-queries](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3376-longest-common-suffix-queries) |
 | [0648-replace-words](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0648-replace-words) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Recursion
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0648-replace-words) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
 | ------- |
