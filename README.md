@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3376-longest-common-suffix-queries](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3376-longest-common-suffix-queries) |
 | [0648-replace-words](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0648-replace-words) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Recursion
 |  |
 | ------- |
