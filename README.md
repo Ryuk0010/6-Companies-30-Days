@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0648-replace-words) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Recursion
 |  |
 | ------- |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0031-next-permutation) |
 | [0556-next-greater-element-iii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0556-next-greater-element-iii) |
 | [2228-watering-plants-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2228-watering-plants-ii) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Stack
 |  |
 | ------- |
