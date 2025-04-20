@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0189-rotate-array) |
 | [0075-sort-colors](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0075-sort-colors) |
 | [0053-maximum-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [0053-maximum-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
 | ------- |
