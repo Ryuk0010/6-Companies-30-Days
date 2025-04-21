@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -208,12 +209,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3376-longest-common-suffix-queries](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3376-longest-common-suffix-queries) |
 | [0648-replace-words](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0648-replace-words) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Counting
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0299-bulls-and-cows) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [0347-top-k-frequent-elements](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -483,4 +486,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3376-longest-common-suffix-queries](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3376-longest-common-suffix-queries) |
 | [0648-replace-words](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0648-replace-words) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2494-sum-of-prefix-scores-of-strings) |
 <!---LeetCode Topics End-->
