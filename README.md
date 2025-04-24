@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0112-path-sum](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0099-recover-binary-search-tree) |
+| [0112-path-sum](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0112-path-sum) |
 ## Union Find
 |  |
 | ------- |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0099-recover-binary-search-tree) |
+| [0112-path-sum](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0099-recover-binary-search-tree) |
+| [0112-path-sum](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0112-path-sum) |
 ## Linked List
 |  |
 | ------- |
