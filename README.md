@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [0053-maximum-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0091-decode-ways](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0091-decode-ways) |
 ## Sorting
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [0091-decode-ways](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0091-decode-ways) |
 ## Counting
 |  |
 | ------- |
