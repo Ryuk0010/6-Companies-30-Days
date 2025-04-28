@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0954-maximum-sum-circular-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0954-maximum-sum-circular-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0091-decode-ways](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0091-decode-ways) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0493-reverse-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 | [0053-maximum-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0053-maximum-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0954-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -502,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
