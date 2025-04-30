@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0954-maximum-sum-circular-subarray) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [0162-find-peak-element](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0162-find-peak-element) |
+| [0414-third-maximum-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0414-third-maximum-number) |
 ## Recursion
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1957-closest-room](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1957-closest-room) |
 | [0347-top-k-frequent-elements](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 | [0075-sort-colors](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0075-sort-colors) |
+| [0414-third-maximum-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0414-third-maximum-number) |
 ## Matrix
 |  |
 | ------- |
