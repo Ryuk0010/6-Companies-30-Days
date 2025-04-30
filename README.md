@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0954-maximum-sum-circular-subarray) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [0162-find-peak-element](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0162-find-peak-element) |
 ## Recursion
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1957-closest-room](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1957-closest-room) |
 | [0493-reverse-pairs](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0493-reverse-pairs) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [0162-find-peak-element](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0162-find-peak-element) |
 ## Dynamic Programming
 |  |
 | ------- |
