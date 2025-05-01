@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [0162-find-peak-element](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0162-find-peak-element) |
 | [0414-third-maximum-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0414-third-maximum-number) |
+| [0059-spiral-matrix-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0059-spiral-matrix-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2228-watering-plants-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2228-watering-plants-ii) |
+| [0059-spiral-matrix-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0059-spiral-matrix-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 | [0063-unique-paths-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0063-unique-paths-ii) |
+| [0059-spiral-matrix-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0059-spiral-matrix-ii) |
 ## Reservoir Sampling
 |  |
 | ------- |
