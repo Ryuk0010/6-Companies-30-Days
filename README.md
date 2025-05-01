@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [0556-next-greater-element-iii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0556-next-greater-element-iii) |
 | [0189-rotate-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0268-missing-number) |
 ## Geometry
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0162-find-peak-element) |
 | [0414-third-maximum-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0414-third-maximum-number) |
 | [0059-spiral-matrix-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0059-spiral-matrix-ii) |
+| [0268-missing-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0493-reverse-pairs) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [0162-find-peak-element](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 | [0075-sort-colors](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0414-third-maximum-number) |
+| [0268-missing-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0648-replace-words) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [0268-missing-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -256,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [0222-count-complete-tree-nodes](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0222-count-complete-tree-nodes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0268-missing-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0268-missing-number) |
 ## Rolling Hash
 |  |
 | ------- |
