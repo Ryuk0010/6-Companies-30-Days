@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0556-next-greater-element-iii) |
 | [0189-rotate-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0268-missing-number) |
+| [3192-maximum-xor-product](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3192-maximum-xor-product) |
 ## Geometry
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0222-count-complete-tree-nodes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0268-missing-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0268-missing-number) |
+| [3192-maximum-xor-product](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3192-maximum-xor-product) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0324-wiggle-sort-ii) |
+| [3192-maximum-xor-product](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3192-maximum-xor-product) |
 ## Quickselect
 |  |
 | ------- |
