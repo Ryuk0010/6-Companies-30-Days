@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0268-missing-number) |
 | [3192-maximum-xor-product](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3192-maximum-xor-product) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Geometry
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0091-decode-ways](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0091-decode-ways) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0954-maximum-sum-circular-subarray) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [0268-missing-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0268-missing-number) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [0091-decode-ways](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0091-decode-ways) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting
 |  |
 | ------- |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [0347-top-k-frequent-elements](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sliding Window
 |  |
 | ------- |
