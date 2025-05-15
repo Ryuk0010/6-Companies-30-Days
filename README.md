@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0414-third-maximum-number) |
 | [0059-spiral-matrix-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0059-spiral-matrix-ii) |
 | [0268-missing-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0268-missing-number) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Recursion
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0091-decode-ways) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0954-maximum-sum-circular-subarray) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [0091-decode-ways](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0091-decode-ways) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Counting
 |  |
 | ------- |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0324-wiggle-sort-ii) |
 | [3192-maximum-xor-product](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3192-maximum-xor-product) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Quickselect
 |  |
 | ------- |
