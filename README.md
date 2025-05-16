@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0268-missing-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -513,10 +515,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Merge Sort
 |  |
 | ------- |
