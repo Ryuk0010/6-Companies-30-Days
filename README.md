@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0059-spiral-matrix-ii) |
 | [0268-missing-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0268-missing-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0954-maximum-sum-circular-subarray) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0091-decode-ways) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Counting
 |  |
 | ------- |
