@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0268-missing-number) |
 | [3192-maximum-xor-product](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3192-maximum-xor-product) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3321-type-of-triangle](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3321-type-of-triangle) |
 ## Geometry
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3321-type-of-triangle](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0414-third-maximum-number) |
 | [0268-missing-number](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0268-missing-number) |
+| [3321-type-of-triangle](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3321-type-of-triangle) |
 ## Matrix
 |  |
 | ------- |
