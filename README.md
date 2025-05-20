@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3321-type-of-triangle](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3639-zero-array-transformation-i) |
+| [0416-partition-equal-subset-sum](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0416-partition-equal-subset-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [0416-partition-equal-subset-sum](https://github.com/Ryuk0010/6-Companies-30-Days/tree/master/0416-partition-equal-subset-sum) |
 ## Sorting
 |  |
 | ------- |
